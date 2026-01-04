@@ -1,0 +1,1 @@
+"""PyPDF Editor application package."""
